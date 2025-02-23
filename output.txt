@@ -1,0 +1,55 @@
+Niniejszy tekst jest tekstem przykladowym. Jego zadaniem jest unaocznic ilosc znakow mieszczacych sie na
+jednej stronie obliczeniowej oraz wyjasnic, dlaczego cene za tlumaczenie oblicza sie na podstawie ilosci
+stron obliczeniowych, a nie na podstawie ilosci stron A4.
+Jako ,,znak na stronie" uwaza sie wpisanie kazdego klawisza z klawiatury w edytorze tekstu na komputerze.
+Znakiem jest kazda litera, cyfra, znaki specjalne, kropka, tabulator, a nawet spacja.
+Jako jedna strone obliczeniowa uwaza sie strone, na ktorej wystepuje 1500 znakow. Takie obliczenie
+obowiazuje w tlumaczeniu zwyklym, a wiec niepodbitym okragla pieczecia tlumacza przysieglego. Niektorzy
+tlumacze stosuja rowniez numeracje 1800 znakow. W przypadku tlumaczen poswiadczonych (blednie
+nazywanych ,,przysieglymi") podbitych pieczecia tlumacza i opatrzonych formula poswiadczajaca
+(informacja poswiadczajaca, ze tlumaczenie jest zgodne z oryginalem, za strone obliczeniowa uwaza sie
+strone, na ktorej wystepuje 1125 znakow. Na niniejszej stronie jak dotad zapisano 1125 znakow, wliczajac
+niniejsze zdanie do kropki oraz wlacznie z cyfra zapisana w tym zdaniu.
+Tlumaczenie poswiadczone zawiera wiec mniej znakow niz tlumaczenie zwykle, co wynika z Rozporzadzenia
+Ministra Sprawiedliwosci o zawodzie tlumacza przysieglego, jednakze koszt za oba rodzaje tlumaczenia jest
+czesto jednakowy, badz podobny. Na niniejszej stronie jak dotad zapisano 1500 znakow, wliczajac niniejsze
+zdanie do kropki oraz wlacznie z cyfra zapisana w tym zdaniu.
+Jak widac, strona liczaca 1500 znakow nie jest tak obszerna, jak zapisana strona A4. Na stronie zastosowano
+male przerwy pomiedzy wierszami (interlinia pojedyncza). Na niniejszej stronie zapisano jak dotad 1800
+znakow, wliczajac niniejsze zdanie do kropki oraz wlacznie z cyfra zapisana w tym zdaniu.
+Powyzsze rozwazania o dlugosci tekstu zostaly stworzone na potrzeby tlumacza przysieglego celem
+wyjasnienia jego klientom kwestii znakow na stronie obliczeniowej. Czesto bowiem zdarza sie, ze klient
+rozumie ,,strone" tekstu jako zapisana pelna strone formatu A4 i to maczkiem. Rzeczywistosc jest jednak
+inna. Strona stronie nierowna; ,,strona" to nie to samo co ,,strona obliczeniowa". Trzeba zaznaczyc, ze
+niniejsza strona zostala napisana czcionka ,,Calibri", natomiast rozmiar czcionki wynosi 11. Co prawda
+powszechnie uzywana wielkoscia jest 12, jednak w moim odczuciu wydruk o tak duzych rozmiarach jest zbyt
+duzy i razi oko. Niniejsza strona zostala sporzadzona w dwoch jednobrzmiacych egzemplarzach, z ktorych
+jeden zostal wyrownany do lewej i prawej strony arkusza, drugi natomiast wyrownano jedynie do lewej
+strony tak, aby przypominal suchy nieobrobiony tekst. Celem takiego zabiegu jest wykazanie, ze w
+przypadku tekstu wyrownanego tylko do jednej strony arkusza tekst wydaje sie mniej obszerny niz tekst
+wyrownany po obu stronach arkusza. Prosze zwrocic uwage, jak wiele znakow pojawilo sie na niniejszej
+stronie. Jest ich az 5330. Jak widac w przypadku obliczenia ceny za tlumaczenie, ktora wyniknie z ilosci
+znakow na stronie (a nie z ilosci stron A4) niesprawiedliwe byloby liczyc niniejsza strone jako tylko jedna
+,,strone obliczeniowa" z racji tego, ze jest to tylko jedna strona A4. Owszem, strona jest jedna, zapisana na
+jednej kartce, jednakze wystapilo na niej az 5330 znakow. Z niniejszej strony nalezy wyliczyc ilosc stron
+obliczeniowych w celu uzyskania ceny za tlumaczenie takiego tekstu. Policzmy wiec: jedna strona
+obliczeniowa to w tlumaczeniu zwyklym 1500 znakow. Wystepujace na niniejszej stronie 5578 znakow
+nalezy podzielic przez 1500. Wyjdzie nam ilosc szukanych stron obliczeniowych: 5330 : 1500 = 3,5. Ta cyfra
+oznacza szukana ilosc stron, za ktore zostanie pobrana oplata. Oczywiscie w przypadku gdy wynik wychodzi
+z przecinkiem, na przyklad: 3,5 to uwaza sie, ze zostala rozpoczeta kolejna strona. Strone rozpoczeta uwaza
+sie natomiast za cala. Nie ma znaczenia, w jakim stopniu zapisana zostala nowa strona, moze to byc zarowno
+1499, jak i 10 znakow - w rozliczeniu strona bedzie traktowana jako jedna. W naszym przypadku wychodzi
+wiec nie 3,5 strony, lecz 4. Dla czytelnika nadal moze wydawac sie niejasne, ze w rozliczeniu cenowym
+niniejsza strona A4 nie bedzie traktowana jak jedna strona. Wylania sie bowiem takie rownanie
+matematyczne: 1=4, gdzie 1 to niniejsza strona A4, a 4 to liczba stron rozliczeniowych. Biorac pod uwage
+wczesniejsze rozwazania na temat rozliczania stron, powyzszy wynik jest jedynym slusznym. Podobnie
+sprawa ma sie w przypadku strony tlumaczenia poswiadczonego, ktore ma 1125 znakow. Liczbe znakow
+niniejszej strony nalezy podzielic przez 1125, aby otrzymac faktyczna ilosc stron obliczeniowych: 5330 : 1125
+= 4,7. Po zaokragleniu do pelnej strony wyjdzie nam 5 stron. Na koniec omowmy jeszcze pokrotce czas
+spedzony nad tlumaczeniem. Przetlumaczenie 5330 znakow a przetlumaczenie 1125 czy 1500 znakow to
+jednak spora roznica czasowa. Tekst moze skladac sie ze stosunkowo prostych slow, ktorych znaczen nie
+trzeba szukac w specjalistycznych slownikach i innych zrodlach. Co jednak sie stanie, gdy w tekscie pojawiaja
+sie okreslenia fachowe? Wowczas przekladany tekst przysporzy tlumaczowi dodatkowych trudnosci i sprawi,
+ze czas realizacji tlumaczenia sie wydluzy. Powyzsze rozwazania mozna uznac za zakonczone i miec nadzieje,
+ze zostaly zrozumiane przez czytelnika.
+
