@@ -1,1 +1,3 @@
-# projekt - szyfrowanie
+# Projekt - szyfrowanie
+
+Oryginalnie stworzone w 2021 na potrzeby projektu z przedmiotu "Podstawy programowania"
